@@ -3,9 +3,10 @@
 This repository contains the framework used for developing, testing and presenting the GNN-based ITk track reconstruction project GNN4ITk.
 
 Related work can be found here:
-1. https://arxiv.org/abs/2103.06995
-2. https://indico.cern.ch/event/948465/contributions/4323753/https://doi.org/10.1051/epjconf/202125103047
-3. https://cds.cern.ch/record/2815578?ln=en.
+1. https://doi.org/10.1140/epjc/s10052-021-09675-8
+2. https://indico.cern.ch/event/948465/contributions/4323753/
+3. https://doi.org/10.1051/epjconf/202125103047
+4. https://cds.cern.ch/record/2815578?ln=en.
 
 **This repository is still under development and may be subject to breaking changes.**
 
